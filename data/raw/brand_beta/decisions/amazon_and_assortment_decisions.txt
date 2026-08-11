@@ -1,0 +1,22 @@
+﻿Brand: Brand Beta (Nestora)
+Document Type: Decision Record
+Date: 2026-02-25
+Department: Leadership / Decision Committee
+Decision Owner: Marcus Lee, Brand Director
+
+Decision 1: Spring Assortment
+Approved launch of only two spring scents: Citrus Grove and Rain Garden. Room spray development is delayed until Fall 2026.
+Reasoning: Production capacity is limited. Focusing on two scents protects quality and keeps attention on core bestsellers Cedar Smoke and Soft Linen.
+
+Decision 2: Fulfillment Partner
+Approved QuickBox Logistics for Amazon fulfillment starting April 2026, despite higher cost than HarborShip.
+Reasoning: Faster delivery and lower damage rates are more important than saving $1.30 per order while Amazon ratings remain under pressure.
+
+Business Context Link:
+These decisions support the Strategy goal of raising Amazon revenue share to 35% by improving speed, presentation, and assortment focus.
+
+Outcome:
+Operations will migrate Amazon inventory to QuickBox by April 10. Product will finalize spring scent formulas by March 5.
+
+Next Step:
+E-commerce will refresh Amazon listings before the QuickBox go-live date.

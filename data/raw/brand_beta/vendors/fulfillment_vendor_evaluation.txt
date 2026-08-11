@@ -1,0 +1,30 @@
+﻿Brand: Brand Beta (Nestora)
+Document Type: Vendor Evaluation
+Date: 2026-02-18
+Department: Operations & Procurement
+Author: Chris Alvarez, Operations Manager
+
+Business Context:
+Nestora needs a better fulfillment partner for Amazon orders. Current average delivery time is 4.5 days, and fragile candle packaging has led to higher return rates.
+
+Vendors Compared:
+1. QuickBox Logistics
+   - Delivery promise: 2-day for 80% of U.S. orders
+   - Cost per order: $6.40
+   - Damage rate (pilot estimate): 1.8%
+   - Strength: speed and Amazon-focused workflow
+
+2. HarborShip Fulfillment
+   - Delivery promise: 3-day for 75% of U.S. orders
+   - Cost per order: $5.10
+   - Damage rate (pilot estimate): 3.5%
+   - Strength: lower cost
+
+Evaluation Notes:
+HarborShip is cheaper, but Nestora candles are heavy and breakable. QuickBox has better protective packing standards and faster delivery, which directly supports Amazon rating recovery.
+
+Recommendation:
+Select QuickBox Logistics for Amazon fulfillment starting April 2026.
+
+Next Step:
+Present recommendation to Decision Committee with expected monthly cost increase of about $18,000.

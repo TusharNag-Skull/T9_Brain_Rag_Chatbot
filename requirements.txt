@@ -1,0 +1,10 @@
+﻿# Packages used by the current Think9 Brain application
+python-dotenv
+streamlit
+langchain-core
+langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+chromadb
+langchain-chroma
+langchain-groq

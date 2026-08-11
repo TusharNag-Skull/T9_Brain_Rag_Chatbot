@@ -1,0 +1,30 @@
+﻿Brand: Brand Alpha (PureSip)
+Document Type: Vendor Evaluation
+Date: 2026-03-08
+Department: Operations & Procurement
+Author: Daniel Ruiz, Procurement Lead
+
+Business Context:
+PureSip needs a packaging partner for recyclable 12oz cans ahead of the July 2026 retail launch.
+
+Vendors Compared:
+1. PackRight Co.
+   - Unit cost: $0.21 per can
+   - Lead time: 5 weeks
+   - Recyclability: partial
+   - Strength: lowest price
+
+2. GreenCan Supplies
+   - Unit cost: $0.27 per can
+   - Lead time: 4 weeks
+   - Recyclability: fully recyclable aluminum with plant-based liner
+   - Strength: retailer-ready sustainability credentials
+
+Evaluation Notes:
+Retail partners asked for clear recyclability claims. PackRight is cheaper, but its partial recyclability creates compliance risk. GreenCan costs more, yet its specs match premium grocery requirements and support PureSip's gut-health, clean-living brand story.
+
+Recommendation:
+Select GreenCan Supplies for the first retail production run of 500,000 cans.
+
+Next Step:
+Send recommendation to the Decision Committee for final approval before March 18.
